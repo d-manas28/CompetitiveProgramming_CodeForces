@@ -2,6 +2,8 @@
 using namespace std;
 #define fast ios_base::sync_with_stdio(false)
 #define loop(x,m) for(int x= 0;x<m;x++)
+
+
 int main(){
   fast;
   cin.tie(NULL);
